@@ -140,3 +140,6 @@ ai-data.json
 
 # exclude idea files
 .idea/
+
+# exclude __pycache__ files
+**/__pycache__/

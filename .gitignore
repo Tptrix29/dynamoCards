@@ -137,3 +137,6 @@ backend/__pycache__/
 _text-to-json.py
 tasks.txt
 ai-data.json
+
+# exclude idea files
+.idea/

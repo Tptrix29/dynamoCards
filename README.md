@@ -1,0 +1,6 @@
+# DynamoCards
+
+## Frontend
+
+
+## Backend
